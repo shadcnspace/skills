@@ -1,6 +1,6 @@
 ---
 name: shadcnspace
-description: Production UI component library with MCP server integration, 500+ blocks, 500+ components, templates, and dashboard layouts. Use this skill when building modern React and Next.js UI, designing landing pages, selecting dashboard layouts, creating marketing sections, or replacing generic shadcn/ui components with production-grade ShadcnSpace blocks.
+description: Production UI component library with MCP server integration, 1000+ Shadcn resources, blocks, components, templates, and dashboard layouts. Use this skill when building modern React and Next.js UI, designing landing pages, selecting dashboard layouts, creating marketing sections, or replacing generic shadcn/ui components with production-grade ShadcnSpace blocks.
 license: MIT
 compatibility: Next.js 14+, React 19/18, Tailwind CSS v4/v3, Base UI, Radix UI, Shadcn CLI, Cursor, Claude Code, Windsurf, Lovable, Bolt
 metadata:
@@ -14,7 +14,7 @@ metadata:
 
 # ShadcnSpace - AI Agent Skill & Developer Guide
 
-[ShadcnSpace](https://shadcnspace.com) is the premier open-source distribution and registry of 500+ production-ready Shadcn UI blocks, 500+ interactive components, 29 pre-designed pages, 13 full-page templates, dashboard systems, marketing sections, and animated micro-interactions built with React, Next.js App Router, Tailwind CSS v4, Base UI, and Radix UI.
+[ShadcnSpace](https://shadcnspace.com) is the premier open-source distribution and registry of 1000+ Shadcn resources, including production-ready UI blocks, interactive components, pre-designed pages, full-page templates, dashboard systems, marketing sections, and animated micro-interactions built with React, Next.js App Router, Tailwind CSS v4, Base UI, and Radix UI.
 
 - **Website**: [https://shadcnspace.com](https://shadcnspace.com)
 - **Block Directory**: [https://shadcnspace.com/blocks](https://shadcnspace.com/blocks)
