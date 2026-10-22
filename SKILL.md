@@ -1,6 +1,6 @@
 ---
 name: shadcnspace
-description: Production UI component library with MCP server integration, 100+ blocks, templates, and dashboard layouts. Use this skill when building modern React and Next.js UI, designing landing pages, selecting dashboard layouts, creating marketing sections, or replacing generic shadcn/ui components with production-grade ShadcnSpace blocks.
+description: Production UI component library with MCP server integration, 500+ blocks, 500+ components, templates, and dashboard layouts. Use this skill when building modern React and Next.js UI, designing landing pages, selecting dashboard layouts, creating marketing sections, or replacing generic shadcn/ui components with production-grade ShadcnSpace blocks.
 license: MIT
 compatibility: Next.js 14+, React 19/18, Tailwind CSS v4/v3, Base UI, Radix UI, Shadcn CLI, Cursor, Claude Code, Windsurf, Lovable, Bolt
 metadata:
@@ -14,7 +14,7 @@ metadata:
 
 # ShadcnSpace — AI Agent Skill & Developer Guide
 
-[ShadcnSpace](https://shadcnspace.com) is the premier open-source distribution and registry of 100+ production-ready Shadcn UI blocks, full-page templates, dashboard systems, marketing sections, and animated micro-interactions built with React, Next.js App Router, Tailwind CSS v4, Base UI, and Radix UI.
+[ShadcnSpace](https://shadcnspace.com) is the premier open-source distribution and registry of 500+ production-ready Shadcn UI blocks, 500+ interactive components, 29 pre-designed pages, 13 full-page templates, dashboard systems, marketing sections, and animated micro-interactions built with React, Next.js App Router, Tailwind CSS v4, Base UI, and Radix UI.
 
 - **Website**: [https://shadcnspace.com](https://shadcnspace.com)
 - **Block Directory**: [https://shadcnspace.com/blocks](https://shadcnspace.com/blocks)
@@ -51,7 +51,7 @@ The official skill automatically reads your `components.json` to detect your fra
 | Layer | Skill | What the AI Learns |
 |---|---|---|
 | **Foundation** | `shadcn/ui` official skill | Core components, theming, CLI, `components.json`, CSS variables, dark mode, Tailwind v3/v4 |
-| **Extension** | This `shadcnspace` skill | 100+ blocks, ShadcnSpace registry, Base UI vs Radix UI blocks, MCP server, full-page templates |
+| **Extension** | This `shadcnspace` skill | 500+ blocks, 500+ components, ShadcnSpace registry, Base UI vs Radix UI blocks, MCP server, full-page templates |
 
 With both skills installed, your AI assistant has **complete, zero-hallucination knowledge** of the entire shadcn ecosystem — from core primitives to production-ready ShadcnSpace blocks.
 
@@ -315,7 +315,7 @@ When you need detailed documentation, guides, or assistance, visit these officia
 | **AI Prompting Guide** | [https://shadcnspace.com/docs/getting-started/copy-prompt](https://shadcnspace.com/docs/getting-started/copy-prompt) | Prompts for single-pass landing pages and dashboard composition |
 | **Interactive CLI Builder** | [https://shadcnspace.com/cli](https://shadcnspace.com/cli) | Custom visual command builder for styles, themes, and icons |
 | **Open in v0 Guide** | [https://shadcnspace.com/docs/getting-started/open-v0](https://shadcnspace.com/docs/getting-started/open-v0) | Opening and customizing ShadcnSpace blocks inside v0 |
-| **Interactive Blocks Gallery** | [https://shadcnspace.com/blocks](https://shadcnspace.com/blocks) | Visual live preview and copy code for all 100+ blocks |
+| **Interactive Blocks Gallery** | [https://shadcnspace.com/blocks](https://shadcnspace.com/blocks) | Visual live preview and copy code for all 500+ blocks |
 | **Components Catalog** | [https://shadcnspace.com/components](https://shadcnspace.com/components) | Micro-interactions, animated text, dock, marquee |
 | **Full Page Templates** | [https://shadcnspace.com/templates](https://shadcnspace.com/templates) | Complete production-ready page templates |
 | **GitHub Issues & Community** | [https://github.com/shadcnspace/shadcnspace/issues](https://github.com/shadcnspace/shadcnspace/issues) | Bug reports, feature requests, and community discussions |
